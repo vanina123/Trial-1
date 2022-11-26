@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #F9F9F9;
+    color:  #1B2430;
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 35px;
+
+}
+#ull,#lli{
+    display: inline;
+}
+.hamc>.anchor{
+  text-decoration: none;
+}
+#lli>.anchor{
+  text-decoration: none;
+}
+body{
+    background-color: whitesmoke;
+}
+
